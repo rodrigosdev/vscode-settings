@@ -138,7 +138,7 @@
     "githubPullRequests.fileListLayout": "tree",
     "i18n-ally.autoDetection": false,
     "i18n-ally.displayLanguage": "en",
-    "i18n-ally.ignoredLocales": [],
+    "i18n-ally.ignoredLocales": [],  
   
     // I only use Prettier for manually formatting
     "prettier.enable": false,
