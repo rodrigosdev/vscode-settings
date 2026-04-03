@@ -7,6 +7,8 @@
 <br>
 <p align="center"><samp>Preview</samp></p>
 
+<img src="github.png">
+
 <p align="center">
 <sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theme | <a href="https://github.com/catppuccin/vscode">Catppuccin Macchiato</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://formulae.brew.sh/cask/font-geist-mono-nerd-font">Geist Mono Nerd Font</a><br>
