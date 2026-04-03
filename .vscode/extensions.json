@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    // themes & icons
+    "antfu.icons-carbon",
+    "Catppuccin.catppuccin-vsc",
+    "Catppuccin.catppuccin-vsc-icons",
+    // life savers!
+    "usernamehw.errorlens",
+    "YoavBls.pretty-ts-errors",
+    "streetsidesoftware.code-spell-checker",
+    // up to you
+    "github.vscode-github-actions",
+    "antfu.where-am-i",
+    "antfu.open-in-github-button",
+    "jock.svg"
+  ]
+}
